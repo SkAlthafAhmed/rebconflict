@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 The rc2.txt is created in remote repository
+=======
+rc2.txt is created in feature branch
+>>>>>>> 048418d (rc2.txt is added in fb)
